@@ -1,0 +1,4371 @@
+{
+  "meta": {
+    "team": "数院",
+    "teamEn": "WHUMATH",
+    "source": "whumath_database.xlsx",
+    "generatedAt": "2026-06-10T11:27:50",
+    "missingLabel": "待补充"
+  },
+  "seasons": [
+    "2023-2024",
+    "2024-2025",
+    "2025-2026"
+  ],
+  "competitions": [
+    "五人制",
+    "新生杯",
+    "振兴杯"
+  ],
+  "formats": {
+    "新生杯": "8-a-side",
+    "振兴杯": "11-a-side",
+    "五人制": "5-a-side"
+  },
+  "startersByCompetition": {
+    "新生杯": 8,
+    "振兴杯": 11,
+    "五人制": 5
+  },
+  "seasonCaptains": {
+    "2023-2024": "胡然",
+    "2024-2025": "廖梓瑞",
+    "2025-2026": "李昊哲"
+  },
+  "jerseyNumbers": {
+    "2023-2024": {
+      "李昊哲": "10"
+    },
+    "2024-2025": {
+      "李昊哲": "10"
+    },
+    "2025-2026": {
+      "李昊哲": "10"
+    }
+  },
+  "achievements": [
+    {
+      "year": 2024,
+      "competition": "五人制",
+      "title": "2024年五人制冠军",
+      "titleEn": "2024 Five-a-side Champion",
+      "image": "assets/images/champion.jpg"
+    },
+    {
+      "year": 2026,
+      "competition": "五人制",
+      "title": "2026年五人制亚军",
+      "titleEn": "2026 Five-a-side Runner-up",
+      "image": ""
+    }
+  ],
+  "news": [
+    {
+      "season": "2025-2026",
+      "type": "专访",
+      "typeEn": "Interview",
+      "title": "【武数FOCUS】“五人制足球”亚军数院男足专访",
+      "titleEn": "【武数FOCUS】“五人制足球”亚军数院男足专访",
+      "date": "2026.05.08",
+      "url": "https://mp.weixin.qq.com/s/hqF8HelH4fEthJbB8hSZDA",
+      "cover": "assets/images/news-08.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2025-2026",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】数院男足夺得五人制足球赛亚军！",
+      "titleEn": "【武数FOCUS】数院男足夺得五人制足球赛亚军！",
+      "date": "2026.04.19",
+      "url": "https://mp.weixin.qq.com/s/3DRuuww1iuSTzWbb8Z5saQ",
+      "cover": "assets/images/news-07.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2025-2026",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】一往无前虎山行，拨开云雾见光明——数院五人制足球队再进决赛",
+      "titleEn": "【武数FOCUS】一往无前虎山行，拨开云雾见光明——数院五人制足球队再进决赛",
+      "date": "2026.04.04",
+      "url": "https://mp.weixin.qq.com/s/cNGJMCjo_PW1nEDck98B3Q",
+      "cover": "assets/images/news-06.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2025-2026",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】不畏强敌，勇往直前——数院五人制足球队重返四强",
+      "titleEn": "【武数FOCUS】不畏强敌，勇往直前——数院五人制足球队重返四强",
+      "date": "2026.04.01",
+      "url": "https://mp.weixin.qq.com/s/sHy6rgQglgoG6-g6Lk-WDA",
+      "cover": "assets/images/news-05.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2025-2026",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】齐心协力，勇创佳绩——校五人制足球赛数院一队挺进八强",
+      "titleEn": "【武数FOCUS】齐心协力，勇创佳绩——校五人制足球赛数院一队挺进八强",
+      "date": "2026.03.29",
+      "url": "https://mp.weixin.qq.com/s/3m9qmbgsjCAzTsCAP1TSVA",
+      "cover": "assets/images/news-04.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2023-2024",
+      "type": "专访",
+      "typeEn": "Interview",
+      "title": "【武数FOCUS】“五人制足球”冠军数院男足专访",
+      "titleEn": "【武数FOCUS】“五人制足球”冠军数院男足专访",
+      "date": "2024.04.22",
+      "url": "https://mp.weixin.qq.com/s/brT7mroZQHgZMFJ1ay2ZAA",
+      "cover": "assets/images/news-03.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2023-2024",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】千磨万击还坚劲，披荆斩棘砺锋芒！",
+      "titleEn": "【武数FOCUS】千磨万击还坚劲，披荆斩棘砺锋芒！",
+      "date": "2024.04.08",
+      "url": "https://mp.weixin.qq.com/s/gXa9S-cMVKNhL7aWZwCK9Q",
+      "cover": "assets/images/news-02.jpg",
+      "description": "",
+      "descriptionEn": ""
+    },
+    {
+      "season": "2023-2024",
+      "type": "战报",
+      "typeEn": "Match Report",
+      "title": "【武数FOCUS】攻城拔寨，闯入决赛！",
+      "titleEn": "【武数FOCUS】攻城拔寨，闯入决赛！",
+      "date": "2024.04.05",
+      "url": "https://mp.weixin.qq.com/s/OeadtfMaEzsPnL7Yyk_HDA",
+      "cover": "assets/images/news-01.jpg",
+      "description": "",
+      "descriptionEn": ""
+    }
+  ],
+  "transfers": [
+    {
+      "season": "2025-2026",
+      "newcomers": [
+        {
+          "name": "贺宇洲",
+          "date": "2025.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "王嘉宁",
+          "date": "2025.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "应锦程",
+          "date": "2025.09",
+          "from": "吉林大学",
+          "to": "武大数院",
+          "notes": ""
+        }
+      ],
+      "departures": [
+        {
+          "name": "蒋思杨",
+          "date": "2026.06",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        },
+        {
+          "name": "廖梓瑞",
+          "date": "2026.06",
+          "from": "武大数院",
+          "to": "新加坡国立大学",
+          "notes": ""
+        },
+        {
+          "name": "徐锋庆",
+          "date": "2026.06",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        },
+        {
+          "name": "张梦洋",
+          "date": "2026.06",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "season": "2024-2025",
+      "newcomers": [
+        {
+          "name": "孔维轩",
+          "date": "2024.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "姚宇辰",
+          "date": "2024.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "刘岳然",
+          "date": "2024.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "张硕铠",
+          "date": "2024.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "姚健",
+          "date": "2024.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "方烁俨",
+          "date": "2025.02",
+          "from": "武大经管",
+          "to": "武大数院",
+          "notes": ""
+        }
+      ],
+      "departures": [
+        {
+          "name": "邝钧皓",
+          "date": "2025.09",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        }
+      ]
+    },
+    {
+      "season": "2023-2024",
+      "newcomers": [
+        {
+          "name": "李昊哲",
+          "date": "2024.02",
+          "from": "武大物院",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "许景粟",
+          "date": "2023.09",
+          "from": "武大化院",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "刘恺源",
+          "date": "2023.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "韩志豪",
+          "date": "2023.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        },
+        {
+          "name": "邝钧皓",
+          "date": "2023.09",
+          "from": "青训",
+          "to": "武大数院",
+          "notes": ""
+        }
+      ],
+      "departures": [
+        {
+          "name": "周宇杰",
+          "date": "2024.06",
+          "from": "武大数院",
+          "to": "澳门大学",
+          "notes": ""
+        },
+        {
+          "name": "胡然",
+          "date": "2024.06",
+          "from": "武大数院",
+          "to": "哥伦比亚大学",
+          "notes": ""
+        },
+        {
+          "name": "石德铭",
+          "date": "2024.06",
+          "from": "武大数院",
+          "to": "南洋理工大学",
+          "notes": ""
+        },
+        {
+          "name": "格桑次仁",
+          "date": "2024.06",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        },
+        {
+          "name": "遵追桑布",
+          "date": "2024.06",
+          "from": "武大数院",
+          "to": "退役",
+          "notes": ""
+        }
+      ]
+    }
+  ],
+  "matches": [
+    {
+      "id": "9-2023-2024-五人制-第一轮-计科一队",
+      "sourceRow": 9,
+      "season": "2023-2024",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "",
+      "venue": "桂园操场",
+      "stage": "第一轮",
+      "opponent": "计科一队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:0",
+        "goalsFor": 3,
+        "goalsAgainst": 0,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [
+        {
+          "name": "蒋思杨",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "格桑次仁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "周宇杰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "石德铭",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "胡然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "遵追桑布",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "蒋思杨(C)、格桑次仁、许景粟、周宇杰、石德铭(GK)",
+        "substitutes": "胡然、遵追桑布"
+      },
+      "dataQuality": {
+        "missingDate": true,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": true,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "10-2023-2024-五人制-第二轮-水院一队",
+      "sourceRow": 10,
+      "season": "2023-2024",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "",
+      "venue": "桂园操场",
+      "stage": "第二轮",
+      "opponent": "水院一队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "",
+        "goalsFor": null,
+        "goalsAgainst": null,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "unknown",
+        "known": false
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [
+        {
+          "name": "蒋思杨",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "李昊哲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "周宇杰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "石德铭",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "格桑次仁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "蒋思杨(C)、李昊哲、许景粟、周宇杰、石德铭(GK)",
+        "substitutes": "格桑次仁"
+      },
+      "dataQuality": {
+        "missingDate": true,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": true,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "11-2023-2024-五人制-八进四-弘毅二队",
+      "sourceRow": 11,
+      "season": "2023-2024",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "",
+      "venue": "桂园操场",
+      "stage": "八进四",
+      "opponent": "弘毅二队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:0",
+        "goalsFor": 3,
+        "goalsAgainst": 0,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [
+        {
+          "name": "蒋思杨",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "李昊哲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "周宇杰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "石德铭",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "胡然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "格桑次仁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "遵追桑布",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1. 许景粟",
+        "assists": "",
+        "startingLineup": "蒋思杨(C)、李昊哲、许景粟、周宇杰、石德铭(GK)",
+        "substitutes": "胡然、格桑次仁、遵追桑布"
+      },
+      "dataQuality": {
+        "missingDate": true,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": true,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "12-2023-2024-五人制-半决赛-物院一队",
+      "sourceRow": 12,
+      "season": "2023-2024",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "",
+      "venue": "桂园操场",
+      "stage": "半决赛",
+      "opponent": "物院一队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:3",
+        "goalsFor": 3,
+        "goalsAgainst": 3,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "draw",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "蒋思杨",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "李昊哲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "周宇杰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "石德铭",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "格桑次仁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1, 3.蒋思杨\n2.许景粟",
+        "assists": "1, 3.李昊哲",
+        "startingLineup": "蒋思杨(C)、李昊哲、许景粟、周宇杰、石德铭(GK)",
+        "substitutes": "格桑次仁"
+      },
+      "dataQuality": {
+        "missingDate": true,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "13-2023-2024-五人制-决赛-计科一队",
+      "sourceRow": 13,
+      "season": "2023-2024",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2024.4.7",
+      "venue": "桂园操场",
+      "stage": "决赛",
+      "opponent": "计科一队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:1(4:2)",
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "penaltyFor": 4,
+        "penaltyAgainst": 2,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "蒋思杨",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "李昊哲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "周宇杰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "石德铭",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "格桑次仁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.蒋思杨",
+        "assists": "1.李昊哲",
+        "startingLineup": "蒋思杨(C)、李昊哲、许景粟、周宇杰、石德铭(GK)",
+        "substitutes": "格桑次仁"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "14-2024-2025-新生杯-小组赛第一轮-电信",
+      "sourceRow": 14,
+      "season": "2024-2025",
+      "competition": "新生杯",
+      "format": "8-a-side",
+      "startersCount": 8,
+      "date": "2024.9.29",
+      "venue": "信息学部操场",
+      "stage": "小组赛第一轮",
+      "opponent": "电信",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:7",
+        "goalsFor": 1,
+        "goalsAgainst": 7,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.姚宇辰",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "16-2024-2025-新生杯-八分之一决赛-电气",
+      "sourceRow": 16,
+      "season": "2024-2025",
+      "competition": "新生杯",
+      "format": "8-a-side",
+      "startersCount": 8,
+      "date": "2024.10.11",
+      "venue": "桂园操场",
+      "stage": "八分之一决赛",
+      "opponent": "电气",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:4",
+        "goalsFor": 1,
+        "goalsAgainst": 4,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.姚宇辰",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "17-2024-2025-振兴杯-小组赛第一轮-物院",
+      "sourceRow": 17,
+      "season": "2024-2025",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2024.11.19",
+      "venue": "信息学部操场",
+      "stage": "小组赛第一轮",
+      "opponent": "物院",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:1",
+        "goalsFor": 3,
+        "goalsAgainst": 1,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、3.许景粟",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": true,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "18-2024-2025-振兴杯-小组赛第二轮-电信",
+      "sourceRow": 18,
+      "season": "2024-2025",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2024.11.22",
+      "venue": "九一二操场",
+      "stage": "小组赛第二轮",
+      "opponent": "电信",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "0:6",
+        "goalsFor": 0,
+        "goalsAgainst": 6,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": 0
+      }
+    },
+    {
+      "id": "19-2024-2025-振兴杯-小组赛第三轮-动机",
+      "sourceRow": 19,
+      "season": "2024-2025",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2024.11.25",
+      "venue": "九一二操场",
+      "stage": "小组赛第三轮",
+      "opponent": "动机",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:7",
+        "goalsFor": 1,
+        "goalsAgainst": 7,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.李昊哲",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "20-2024-2025-五人制-第二轮-网安二队",
+      "sourceRow": 20,
+      "season": "2024-2025",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2025.3.20",
+      "venue": "桂园操场",
+      "stage": "第二轮",
+      "opponent": "网安二队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "6:2",
+        "goalsFor": 6,
+        "goalsAgainst": 2,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "廖梓瑞",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "刘岳然",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 6,
+          "player": "邝钧皓",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 6,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "邝钧皓",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚健",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "周子奇",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "韩志豪",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、5.许景粟\n2.李昊哲\n3.廖梓瑞\n4.刘岳然\n6.邝钧皓",
+        "assists": "6.李昊哲",
+        "startingLineup": "李昊哲(C)、许景粟、张硕铠、孔维轩(GK)、邝钧皓",
+        "substitutes": "姚健、廖梓瑞、周子奇、韩志豪"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "21-2024-2025-五人制-八分之一决赛-电气一队",
+      "sourceRow": 21,
+      "season": "2024-2025",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2025.3.24",
+      "venue": "桂园操场",
+      "stage": "八分之一决赛",
+      "opponent": "电气一队",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:5",
+        "goalsFor": 3,
+        "goalsAgainst": 5,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "廖梓瑞",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "刘岳然",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 2,
+          "player": "许景粟",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "邝钧皓",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "韩志豪",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.李昊哲\n2.廖梓瑞\n3. 刘岳然\n-5.许景粟",
+        "assists": "2.许景粟\n3.李昊哲",
+        "startingLineup": "李昊哲(C)、许景粟、张硕铠、孔维轩(GK)、邝钧皓",
+        "substitutes": "廖梓瑞、刘岳然、韩志豪"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "22-2025-2026-新生杯-小组赛第一轮-经管",
+      "sourceRow": 22,
+      "season": "2025-2026",
+      "competition": "新生杯",
+      "format": "8-a-side",
+      "startersCount": 8,
+      "date": "2025.10.10",
+      "venue": "桂园操场",
+      "stage": "小组赛第一轮",
+      "opponent": "经管",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "2:2",
+        "goalsFor": 2,
+        "goalsAgainst": 2,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "draw",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、2.贺宇洲",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "23-2025-2026-新生杯-小组赛第二轮-生科地空",
+      "sourceRow": 23,
+      "season": "2025-2026",
+      "competition": "新生杯",
+      "format": "8-a-side",
+      "startersCount": 8,
+      "date": "2025.10.16",
+      "venue": "桂园操场",
+      "stage": "小组赛第二轮",
+      "opponent": "生科地空",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "0:1",
+        "goalsFor": 0,
+        "goalsAgainst": 1,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": 0
+      }
+    },
+    {
+      "id": "24-2025-2026-新生杯-八分之一决赛-基医",
+      "sourceRow": 24,
+      "season": "2025-2026",
+      "competition": "新生杯",
+      "format": "8-a-side",
+      "startersCount": 8,
+      "date": "2025.10.20",
+      "venue": "桂园操场",
+      "stage": "八分之一决赛",
+      "opponent": "基医",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:1(1:4)",
+        "goalsFor": 1,
+        "goalsAgainst": 1,
+        "penaltyFor": 1,
+        "penaltyAgainst": 4,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "刘语洲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [],
+      "roster": [],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.刘语洲",
+        "assists": "",
+        "startingLineup": "",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": true,
+        "goalsIncomplete": false,
+        "missingAssists": true
+      }
+    },
+    {
+      "id": "25-2025-2026-振兴杯-小组赛第一轮-电信",
+      "sourceRow": 25,
+      "season": "2025-2026",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2025.11.18",
+      "venue": "桂园操场",
+      "stage": "小组赛第一轮",
+      "opponent": "电信",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "1:0",
+        "goalsFor": 1,
+        "goalsAgainst": 0,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "韩志豪",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚健",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "方烁俨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.贺宇洲",
+        "assists": "1.李昊哲",
+        "startingLineup": "李昊哲(C)、贺宇洲、许景粟、王嘉宁(GK)、张硕铠、韩志豪、姚宇辰、姚健、刘岳然、\n方烁俨、廖梓瑞",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "26-2025-2026-振兴杯-小组赛第二轮-电气",
+      "sourceRow": 26,
+      "season": "2025-2026",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2025.11.21",
+      "venue": "工学部操场",
+      "stage": "小组赛第二轮",
+      "opponent": "电气",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "0:3",
+        "goalsFor": 0,
+        "goalsAgainst": 3,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "徐锋庆",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚健",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "方烁俨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "李昊哲(C)、贺宇洲、许景粟、王嘉宁(GK)、张硕铠、徐锋庆、姚宇辰、姚健、刘岳然、\n方烁俨、廖梓瑞",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": 0
+      }
+    },
+    {
+      "id": "27-2025-2026-振兴杯-小组赛第三轮-动机",
+      "sourceRow": 27,
+      "season": "2025-2026",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2025.11.25",
+      "venue": "工学部操场",
+      "stage": "小组赛第三轮",
+      "opponent": "动机",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "2:3",
+        "goalsFor": 2,
+        "goalsAgainst": 3,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "刘岳然",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚健",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "方烁俨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张梦洋",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "韩志豪",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1.贺宇洲\n2.刘岳然",
+        "assists": "1.李昊哲\n2.贺宇洲",
+        "startingLineup": "李昊哲(C)、贺宇洲、许景粟、王嘉宁(GK)、张硕铠、姚宇辰、姚健、刘岳然、\n方烁俨、蒋思杨、张梦洋",
+        "substitutes": "廖梓瑞、韩志豪"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "28-2025-2026-振兴杯-保级附加赛-网安",
+      "sourceRow": 28,
+      "season": "2025-2026",
+      "competition": "振兴杯",
+      "format": "11-a-side",
+      "startersCount": 11,
+      "date": "2025.11.28",
+      "venue": "桂园操场",
+      "stage": "保级附加赛",
+      "opponent": "网安",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "6:1",
+        "goalsFor": 6,
+        "goalsAgainst": 1,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 6,
+          "player": "韩志豪",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "刘岳然",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "张硕铠",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "韩志豪",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚健",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "方烁俨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "应锦程",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "刘恺源",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、2.李昊哲\n3、5.贺宇洲\n4.许景粟\n6.韩志豪",
+        "assists": "1、4.贺宇洲\n2.刘岳然\n3、5.李昊哲",
+        "startingLineup": "李昊哲(C)、贺宇洲、许景粟、王嘉宁(GK)、张硕铠、韩志豪、姚宇辰、姚健、刘岳然、\n方烁俨、蒋思杨",
+        "substitutes": "廖梓瑞、应锦程、刘恺源、孔维轩"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "29-2025-2026-五人制-第一轮-城设",
+      "sourceRow": 29,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.03.23",
+      "venue": "桂园操场",
+      "stage": "第一轮",
+      "opponent": "城设",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "12:0",
+        "goalsFor": 12,
+        "goalsAgainst": 0,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 6,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 7,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 8,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 11,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 10,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 9,
+          "player": "廖梓瑞",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 12,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 3,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 9,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 6,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 8,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 7,
+          "player": "刘岳然",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 11,
+          "player": "姚宇辰",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、2、6、7、8.贺宇洲\n3、11. 李昊哲\n4. 蒋思杨\n5、10.许景粟\n9.廖梓瑞\n12.姚宇辰",
+        "assists": "3、5、9.贺宇洲\n4、6、8. 李昊哲\n2. 蒋思杨\n7.刘岳然\n11.姚宇辰",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、许景粟、蒋思杨",
+        "substitutes": "王嘉宁、姚宇辰、刘岳然、廖梓瑞"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "30-2025-2026-五人制-第二轮-法院一",
+      "sourceRow": 30,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.03.25",
+      "venue": "桂园操场",
+      "stage": "第二轮",
+      "opponent": "法院一",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "5:1",
+        "goalsFor": 5,
+        "goalsAgainst": 1,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "许景粟",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "贺宇洲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "王嘉宁",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、3、5. 李昊哲\n2. 蒋思杨\n4. 许景粟",
+        "assists": "1、3.贺宇洲\n4. 蒋思杨",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、许景粟、蒋思杨",
+        "substitutes": "王嘉宁、姚宇辰、刘岳然、廖梓瑞"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "31-2025-2026-五人制-十六进八-遥感一",
+      "sourceRow": 31,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.03.29",
+      "venue": "桂园操场",
+      "stage": "十六进八",
+      "opponent": "遥感一",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "4:0",
+        "goalsFor": 4,
+        "goalsAgainst": 0,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "蒋思杨",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1. 贺宇洲\n2. 姚宇辰\n3. 蒋思杨\n4. 李昊哲",
+        "assists": "1. 李昊哲\n2. 蒋思杨",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、姚宇辰、蒋思杨",
+        "substitutes": "廖梓瑞"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "32-2025-2026-五人制-八进四-电信一",
+      "sourceRow": 32,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.03.31",
+      "venue": "桂园操场",
+      "stage": "八进四",
+      "opponent": "电信一",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "3:2",
+        "goalsFor": 3,
+        "goalsAgainst": 2,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1、2、3. 贺宇洲",
+        "assists": "1、2. 蒋思杨\n3. 李昊哲",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、姚宇辰、蒋思杨",
+        "substitutes": ""
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "33-2025-2026-五人制-半决赛-文院二",
+      "sourceRow": 33,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.04.02",
+      "venue": "桂园操场",
+      "stage": "半决赛",
+      "opponent": "文院二",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "5:1",
+        "goalsFor": 5,
+        "goalsAgainst": 1,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "win",
+        "known": true
+      },
+      "goals": [
+        {
+          "order": 1,
+          "player": "贺宇洲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "李昊哲",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "姚宇辰",
+          "type": "goal",
+          "ownGoal": false
+        },
+        {
+          "order": 5,
+          "player": "OG",
+          "type": "goal",
+          "ownGoal": true
+        }
+      ],
+      "assists": [
+        {
+          "order": 1,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 3,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 4,
+          "player": "李昊哲",
+          "type": "assist",
+          "ownGoal": false
+        },
+        {
+          "order": 2,
+          "player": "蒋思杨",
+          "type": "assist",
+          "ownGoal": false
+        }
+      ],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "廖梓瑞",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        },
+        {
+          "name": "刘岳然",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "1. 贺宇洲\n2. 李昊哲\n3、4. 姚宇辰\n5. OG",
+        "assists": "1、3、4. 李昊哲\n2. 蒋思杨",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、姚宇辰、蒋思杨",
+        "substitutes": "廖梓瑞、刘岳然"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": false
+      }
+    },
+    {
+      "id": "34-2025-2026-五人制-决赛-计科一",
+      "sourceRow": 34,
+      "season": "2025-2026",
+      "competition": "五人制",
+      "format": "5-a-side",
+      "startersCount": 5,
+      "date": "2026.04.09",
+      "venue": "桂园操场",
+      "stage": "决赛",
+      "opponent": "计科一",
+      "homeTeam": "数院",
+      "score": {
+        "raw": "0:3",
+        "goalsFor": 0,
+        "goalsAgainst": 3,
+        "penaltyFor": null,
+        "penaltyAgainst": null,
+        "result": "loss",
+        "known": true
+      },
+      "goals": [],
+      "assists": [],
+      "roster": [
+        {
+          "name": "李昊哲",
+          "captain": true,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "孔维轩",
+          "captain": false,
+          "goalkeeper": true,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "贺宇洲",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "蒋思杨",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "许景粟",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": true
+        },
+        {
+          "name": "姚宇辰",
+          "captain": false,
+          "goalkeeper": false,
+          "penaltyMarker": false,
+          "starter": false
+        }
+      ],
+      "photo": "",
+      "notes": "",
+      "raw": {
+        "goals": "",
+        "assists": "",
+        "startingLineup": "李昊哲(C)、孔维轩(GK)、贺宇洲、蒋思杨、许景粟",
+        "substitutes": "姚宇辰"
+      },
+      "dataQuality": {
+        "missingDate": false,
+        "missingVenue": false,
+        "missingStage": false,
+        "missingOpponent": false,
+        "missingScore": false,
+        "missingRoster": false,
+        "goalsIncomplete": false,
+        "missingAssists": 0
+      }
+    }
+  ],
+  "stats": {
+    "all": {
+      "team": {
+        "matches": 25,
+        "knownScoreMatches": 24,
+        "goalsFor": 66,
+        "goalsAgainst": 54,
+        "wins": 12,
+        "draws": 2,
+        "losses": 10,
+        "cleanSheets": 5
+      },
+      "players": [
+        {
+          "name": "贺宇洲",
+          "goals": 16,
+          "assists": 8,
+          "appearances": 10,
+          "starts": 10,
+          "wins": 7,
+          "draws": 0,
+          "losses": 3,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 10,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.7
+        },
+        {
+          "name": "李昊哲",
+          "goals": 12,
+          "assists": 17,
+          "appearances": 16,
+          "starts": 16,
+          "wins": 10,
+          "draws": 1,
+          "losses": 4,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 15,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.6666666666666666
+        },
+        {
+          "name": "许景粟",
+          "goals": 11,
+          "assists": 1,
+          "appearances": 14,
+          "starts": 14,
+          "wins": 8,
+          "draws": 1,
+          "losses": 4,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 13,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.6153846153846154
+        },
+        {
+          "name": "蒋思杨",
+          "goals": 6,
+          "assists": 6,
+          "appearances": 13,
+          "starts": 13,
+          "wins": 9,
+          "draws": 1,
+          "losses": 2,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 12,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.75
+        },
+        {
+          "name": "姚宇辰",
+          "goals": 6,
+          "assists": 1,
+          "appearances": 10,
+          "starts": 7,
+          "wins": 7,
+          "draws": 0,
+          "losses": 3,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 10,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.7
+        },
+        {
+          "name": "刘岳然",
+          "goals": 3,
+          "assists": 2,
+          "appearances": 8,
+          "starts": 4,
+          "wins": 5,
+          "draws": 0,
+          "losses": 3,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 8,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.625
+        },
+        {
+          "name": "廖梓瑞",
+          "goals": 3,
+          "assists": 0,
+          "appearances": 10,
+          "starts": 2,
+          "wins": 7,
+          "draws": 0,
+          "losses": 3,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 10,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.7
+        },
+        {
+          "name": "韩志豪",
+          "goals": 1,
+          "assists": 0,
+          "appearances": 5,
+          "starts": 2,
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 5,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.6
+        },
+        {
+          "name": "邝钧皓",
+          "goals": 1,
+          "assists": 0,
+          "appearances": 2,
+          "starts": 2,
+          "wins": 1,
+          "draws": 0,
+          "losses": 1,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 2,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.5
+        },
+        {
+          "name": "刘语洲",
+          "goals": 1,
+          "assists": 0,
+          "appearances": 0,
+          "starts": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 0,
+          "goalkeeperAppearances": 0,
+          "winRate": null
+        },
+        {
+          "name": "孔维轩",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 9,
+          "starts": 8,
+          "wins": 7,
+          "draws": 0,
+          "losses": 2,
+          "cleanSheets": 2,
+          "goalsAgainst": 14,
+          "knownResults": 9,
+          "goalkeeperAppearances": 8,
+          "winRate": 0.7777777777777778
+        },
+        {
+          "name": "张硕铠",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 6,
+          "starts": 6,
+          "wins": 3,
+          "draws": 0,
+          "losses": 3,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 6,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.5
+        },
+        {
+          "name": "王嘉宁",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 6,
+          "starts": 4,
+          "wins": 4,
+          "draws": 0,
+          "losses": 2,
+          "cleanSheets": 1,
+          "goalsAgainst": 7,
+          "knownResults": 6,
+          "goalkeeperAppearances": 4,
+          "winRate": 0.6666666666666666
+        },
+        {
+          "name": "周宇杰",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 5,
+          "starts": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 4,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.75
+        },
+        {
+          "name": "姚健",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 5,
+          "starts": 4,
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 5,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.6
+        },
+        {
+          "name": "格桑次仁",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 5,
+          "starts": 1,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 4,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.75
+        },
+        {
+          "name": "石德铭",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 5,
+          "starts": 5,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "cleanSheets": 2,
+          "goalsAgainst": 4,
+          "knownResults": 4,
+          "goalkeeperAppearances": 4,
+          "winRate": 0.75
+        },
+        {
+          "name": "方烁俨",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 4,
+          "starts": 4,
+          "wins": 2,
+          "draws": 0,
+          "losses": 2,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 4,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.5
+        },
+        {
+          "name": "胡然",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 2,
+          "starts": 0,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 2,
+          "goalkeeperAppearances": 0,
+          "winRate": 1.0
+        },
+        {
+          "name": "遵追桑布",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 2,
+          "starts": 0,
+          "wins": 2,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 2,
+          "goalkeeperAppearances": 0,
+          "winRate": 1.0
+        },
+        {
+          "name": "刘恺源",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 1,
+          "starts": 0,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 1,
+          "goalkeeperAppearances": 0,
+          "winRate": 1.0
+        },
+        {
+          "name": "周子奇",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 1,
+          "starts": 0,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 1,
+          "goalkeeperAppearances": 0,
+          "winRate": 1.0
+        },
+        {
+          "name": "应锦程",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 1,
+          "starts": 0,
+          "wins": 1,
+          "draws": 0,
+          "losses": 0,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 1,
+          "goalkeeperAppearances": 0,
+          "winRate": 1.0
+        },
+        {
+          "name": "张梦洋",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 1,
+          "starts": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 1,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.0
+        },
+        {
+          "name": "徐锋庆",
+          "goals": 0,
+          "assists": 0,
+          "appearances": 1,
+          "starts": 1,
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "cleanSheets": 0,
+          "goalsAgainst": 0,
+          "knownResults": 1,
+          "goalkeeperAppearances": 0,
+          "winRate": 0.0
+        }
+      ]
+    },
+    "bySeason": {
+      "2023-2024": {
+        "team": {
+          "matches": 5,
+          "knownScoreMatches": 4,
+          "goalsFor": 10,
+          "goalsAgainst": 4,
+          "wins": 3,
+          "draws": 1,
+          "losses": 0,
+          "cleanSheets": 2
+        },
+        "players": [
+          {
+            "name": "蒋思杨",
+            "goals": 3,
+            "assists": 0,
+            "appearances": 5,
+            "starts": 5,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "许景粟",
+            "goals": 2,
+            "assists": 0,
+            "appearances": 5,
+            "starts": 5,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "李昊哲",
+            "goals": 0,
+            "assists": 3,
+            "appearances": 4,
+            "starts": 4,
+            "wins": 2,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 3,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.6666666666666666
+          },
+          {
+            "name": "周宇杰",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 5,
+            "starts": 5,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "格桑次仁",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 5,
+            "starts": 1,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "石德铭",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 5,
+            "starts": 5,
+            "wins": 3,
+            "draws": 1,
+            "losses": 0,
+            "cleanSheets": 2,
+            "goalsAgainst": 4,
+            "knownResults": 4,
+            "goalkeeperAppearances": 4,
+            "winRate": 0.75
+          },
+          {
+            "name": "胡然",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 0,
+            "wins": 2,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          },
+          {
+            "name": "遵追桑布",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 0,
+            "wins": 2,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          }
+        ]
+      },
+      "2024-2025": {
+        "team": {
+          "matches": 7,
+          "knownScoreMatches": 7,
+          "goalsFor": 15,
+          "goalsAgainst": 32,
+          "wins": 2,
+          "draws": 0,
+          "losses": 5,
+          "cleanSheets": 0
+        },
+        "players": [
+          {
+            "name": "许景粟",
+            "goals": 5,
+            "assists": 1,
+            "appearances": 2,
+            "starts": 2,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "李昊哲",
+            "goals": 3,
+            "assists": 2,
+            "appearances": 2,
+            "starts": 2,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "廖梓瑞",
+            "goals": 2,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "刘岳然",
+            "goals": 2,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.0
+          },
+          {
+            "name": "姚宇辰",
+            "goals": 2,
+            "assists": 0,
+            "appearances": 0,
+            "starts": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 0,
+            "goalkeeperAppearances": 0,
+            "winRate": null
+          },
+          {
+            "name": "邝钧皓",
+            "goals": 1,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 2,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "孔维轩",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 2,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 7,
+            "knownResults": 2,
+            "goalkeeperAppearances": 2,
+            "winRate": 0.5
+          },
+          {
+            "name": "张硕铠",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 2,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "韩志豪",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 2,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 2,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "周子奇",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          },
+          {
+            "name": "姚健",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          }
+        ]
+      },
+      "2025-2026": {
+        "team": {
+          "matches": 13,
+          "knownScoreMatches": 13,
+          "goalsFor": 41,
+          "goalsAgainst": 18,
+          "wins": 7,
+          "draws": 1,
+          "losses": 5,
+          "cleanSheets": 3
+        },
+        "players": [
+          {
+            "name": "贺宇洲",
+            "goals": 16,
+            "assists": 8,
+            "appearances": 10,
+            "starts": 10,
+            "wins": 7,
+            "draws": 0,
+            "losses": 3,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 10,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.7
+          },
+          {
+            "name": "李昊哲",
+            "goals": 9,
+            "assists": 12,
+            "appearances": 10,
+            "starts": 10,
+            "wins": 7,
+            "draws": 0,
+            "losses": 3,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 10,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.7
+          },
+          {
+            "name": "姚宇辰",
+            "goals": 4,
+            "assists": 1,
+            "appearances": 10,
+            "starts": 7,
+            "wins": 7,
+            "draws": 0,
+            "losses": 3,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 10,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.7
+          },
+          {
+            "name": "许景粟",
+            "goals": 4,
+            "assists": 0,
+            "appearances": 7,
+            "starts": 7,
+            "wins": 4,
+            "draws": 0,
+            "losses": 3,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 7,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5714285714285714
+          },
+          {
+            "name": "蒋思杨",
+            "goals": 3,
+            "assists": 6,
+            "appearances": 8,
+            "starts": 8,
+            "wins": 6,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 8,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "刘岳然",
+            "goals": 1,
+            "assists": 2,
+            "appearances": 7,
+            "starts": 4,
+            "wins": 5,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 7,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.7142857142857143
+          },
+          {
+            "name": "廖梓瑞",
+            "goals": 1,
+            "assists": 0,
+            "appearances": 8,
+            "starts": 2,
+            "wins": 6,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 8,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.75
+          },
+          {
+            "name": "韩志豪",
+            "goals": 1,
+            "assists": 0,
+            "appearances": 3,
+            "starts": 2,
+            "wins": 2,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 3,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.6666666666666666
+          },
+          {
+            "name": "刘语洲",
+            "goals": 1,
+            "assists": 0,
+            "appearances": 0,
+            "starts": 0,
+            "wins": 0,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 0,
+            "goalkeeperAppearances": 0,
+            "winRate": null
+          },
+          {
+            "name": "孔维轩",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 7,
+            "starts": 6,
+            "wins": 6,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 2,
+            "goalsAgainst": 7,
+            "knownResults": 7,
+            "goalkeeperAppearances": 6,
+            "winRate": 0.8571428571428571
+          },
+          {
+            "name": "王嘉宁",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 6,
+            "starts": 4,
+            "wins": 4,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 1,
+            "goalsAgainst": 7,
+            "knownResults": 6,
+            "goalkeeperAppearances": 4,
+            "winRate": 0.6666666666666666
+          },
+          {
+            "name": "姚健",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 4,
+            "starts": 4,
+            "wins": 2,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "张硕铠",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 4,
+            "starts": 4,
+            "wins": 2,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "方烁俨",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 4,
+            "starts": 4,
+            "wins": 2,
+            "draws": 0,
+            "losses": 2,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 4,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.5
+          },
+          {
+            "name": "刘恺源",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          },
+          {
+            "name": "应锦程",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 0,
+            "wins": 1,
+            "draws": 0,
+            "losses": 0,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 1.0
+          },
+          {
+            "name": "张梦洋",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 1,
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.0
+          },
+          {
+            "name": "徐锋庆",
+            "goals": 0,
+            "assists": 0,
+            "appearances": 1,
+            "starts": 1,
+            "wins": 0,
+            "draws": 0,
+            "losses": 1,
+            "cleanSheets": 0,
+            "goalsAgainst": 0,
+            "knownResults": 1,
+            "goalkeeperAppearances": 0,
+            "winRate": 0.0
+          }
+        ]
+      }
+    }
+  },
+  "rosters": {
+    "2023-2024": [
+      {
+        "name": "胡然",
+        "position": "",
+        "captain": true,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "刘恺源",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      },
+      {
+        "name": "周宇杰",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 5
+      },
+      {
+        "name": "李昊哲",
+        "position": "前腰",
+        "captain": false,
+        "number": "10",
+        "photo": "",
+        "appearances": 4
+      },
+      {
+        "name": "格桑次仁",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 5
+      },
+      {
+        "name": "石德铭",
+        "position": "门将",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 5
+      },
+      {
+        "name": "蒋思杨",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 5
+      },
+      {
+        "name": "许景粟",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 5
+      },
+      {
+        "name": "遵追桑布",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "邝钧皓",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      },
+      {
+        "name": "韩志豪",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      }
+    ],
+    "2024-2025": [
+      {
+        "name": "廖梓瑞",
+        "position": "",
+        "captain": true,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "刘岳然",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "周子奇",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "姚健",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "姚宇辰",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      },
+      {
+        "name": "孔维轩",
+        "position": "门将",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "张硕铠",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "方烁俨",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      },
+      {
+        "name": "李昊哲",
+        "position": "前腰",
+        "captain": false,
+        "number": "10",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "许景粟",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "邝钧皓",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      },
+      {
+        "name": "韩志豪",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 2
+      }
+    ],
+    "2025-2026": [
+      {
+        "name": "李昊哲",
+        "position": "前腰",
+        "captain": true,
+        "number": "10",
+        "photo": "",
+        "appearances": 10
+      },
+      {
+        "name": "刘岳然",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 7
+      },
+      {
+        "name": "刘恺源",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "刘语洲",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 0
+      },
+      {
+        "name": "姚健",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 4
+      },
+      {
+        "name": "姚宇辰",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 10
+      },
+      {
+        "name": "孔维轩",
+        "position": "门将",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 7
+      },
+      {
+        "name": "应锦程",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "廖梓瑞",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 8
+      },
+      {
+        "name": "张梦洋",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "张硕铠",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 4
+      },
+      {
+        "name": "徐锋庆",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 1
+      },
+      {
+        "name": "方烁俨",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 4
+      },
+      {
+        "name": "王嘉宁",
+        "position": "门将",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 6
+      },
+      {
+        "name": "蒋思杨",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 8
+      },
+      {
+        "name": "许景粟",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 7
+      },
+      {
+        "name": "贺宇洲",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 10
+      },
+      {
+        "name": "韩志豪",
+        "position": "",
+        "captain": false,
+        "number": "",
+        "photo": "",
+        "appearances": 3
+      }
+    ]
+  }
+}
