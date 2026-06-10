@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>WHUMATH Football Team</title>
+    <link rel="icon" href="assets/images/small_logo.png" />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-header">
+      <button class="brand" type="button" data-route="home" aria-label="WHUMATH">
+        <img src="assets/images/logo.png" alt="WHUMATH logo" />
+      </button>
+      <nav class="main-nav" aria-label="Primary">
+        <button class="nav-link" type="button" data-route="home" data-i18n="navHome">首页</button>
+        <button class="nav-link" type="button" data-route="matches" data-i18n="navMatches">比赛</button>
+        <button class="nav-link" type="button" data-route="data" data-i18n="navData">数据</button>
+        <button class="nav-link" type="button" data-route="roster" data-i18n="navRoster">名单</button>
+        <button class="nav-link" type="button" data-route="transfers" data-i18n="navTransfers">转会</button>
+        <button class="nav-link" type="button" data-route="news" data-i18n="navNews">资讯</button>
+        <button class="nav-link" type="button" data-route="photos" data-i18n="navPhotos">照片</button>
+        <button class="language-toggle" type="button" id="languageToggle">中文 / English</button>
+      </nav>
+    </header>
+
+    <main id="app" class="app-shell"></main>
+
+    <script src="data/teamData.js"></script>
+    <script src="app.js"></script>
+  </body>
+</html>
